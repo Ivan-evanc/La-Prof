@@ -1,0 +1,34 @@
+fieldset{
+	width: 38%;
+	height: auto;
+	margin: 0px auto;
+}
+#login-header{
+	margin-top: 5px;
+	width: 40%;
+	height: auto;
+	background: #4682B4;
+	color: white;
+	font-size: 25px;
+	margin: 0px auto;
+	
+}
+
+div .val_error{
+	color: red;
+	font-size: 12px;
+}
+td label{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+div #form-login{
+	margin: 0px auto;
+	padding-top: 10px;
+}
+.container{
+	width: 50%;
+	height: auto;
+}
+

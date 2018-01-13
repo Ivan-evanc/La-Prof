@@ -1,0 +1,23 @@
+#menu-header{
+	float: left;
+	padding-left: 20px;
+}
+#menu-main{
+	float: right;
+}
+
+#menu-main ul li{
+float: left;
+padding-left: 8px;
+margin: 0px auto;
+list-style-type: none;
+text-decoration: none;
+
+}
+
+#menu-main ul li a{
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 18px;
+	
+}
